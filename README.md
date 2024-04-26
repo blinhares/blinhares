@@ -1,6 +1,6 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <a href="https://www.linkedin.com/in/bblinhares/">
+     <img align="center" width="40px" src="https://github.com/blinhares/blinhares/blob/main/ico/ghast.png"></a>
     <span> Bruno B. Linhares</span>
 </h1>
 
