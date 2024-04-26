@@ -39,16 +39,19 @@ Apaixonado por tecnologia, sempre incluo em minhas atividades automações diver
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
 
 ## Coisas Que Ando Fazendo...
+
 - ML e Analise de Dados
     - [Aplicando Regreção com Arvore de Decisao em Acoes da Bolsa.](https://github.com/blinhares/ML_RegreArvoreDecisao_Acoes)
     - [Realizando uma Analise para Scalping Trading Strategy](https://github.com/blinhares/Scalping_Trading_Strategy_Python)
+      
 - UI App
-      - Pyside 6
-          -[Lista de Tarefas (TODO List)](https://github.com/blinhares/PySide6-Todo_List)
-          -[Calculadora](https://github.com/blinhares/PYSIDE-CALCULATOR)
+    - [Pyside 6](https://wiki.qt.io/Qt_for_Python)
+        - [Lista de Tarefas (TODO List)](https://github.com/blinhares/PySide6-Todo_List)
+        - [Calculadora](https://github.com/blinhares/PYSIDE-CALCULATOR)
+  
 - [DIO.io - BootCamp BackEnd Python](https://github.com/blinhares/dio_python_ai_backend_developer)
     
-  
+Loading...  
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bblinhares/) 
