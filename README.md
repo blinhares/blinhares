@@ -36,7 +36,7 @@ Apaixonado por tecnologia, sempre incluo em minhas atividades automações diver
 ![Flack](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ## Coisas Que Ando Fazendo...
@@ -50,9 +50,12 @@ Apaixonado por tecnologia, sempre incluo em minhas atividades automações diver
         - [Lista de Tarefas (TODO List)](https://github.com/blinhares/PySide6-Todo_List)
         - [Calculadora](https://github.com/blinhares/PYSIDE-CALCULATOR)
   
-- [DIO.io - BootCamp BackEnd Python](https://github.com/blinhares/dio_python_ai_backend_developer)
+- DIO.io - [BootCamp BackEnd Python](https://github.com/blinhares/dio_python_ai_backend_developer)
     - [Pequeno Sistema Bancario Usando POO](https://github.com/blinhares/dio_python_ai_backend_developer/tree/main/3_OrientacaoObjetos_e_BoasPraticas/desafio_sistema_bancario_06_log)
     - [Rest_Api c/ FastApi](https://github.com/blinhares/dio_python_ai_backend_developer/tree/main/5_Explorando_FastAPI)
+
+- DJango
+    - Simple App de [Agenda](https://github.com/blinhares/agenda_django). 
     
 Loading...  
 
