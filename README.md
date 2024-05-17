@@ -56,7 +56,8 @@ Apaixonado por tecnologia, sempre incluo em minhas atividades automações diver
     - [Rest_Api c/ FastApi](https://github.com/blinhares/dio_python_ai_backend_developer/tree/main/5_Explorando_FastAPI)
 
 - DJango
-    - Simple App de [Agenda](https://github.com/blinhares/agenda_django). 
+    - Simple App de [Agenda](https://github.com/blinhares/agenda_django).
+    - [Blog](https://github.com/blinhares/blog_django). 
     
 Loading...  
 
