@@ -1,8 +1,4 @@
-<h1>
-    <a href="https://www.linkedin.com/in/bblinhares/">
-     <img align="center" width="40px" src="https://github.com/blinhares/blinhares/blob/main/ico/ghast.png"></a>
-    <span> Bruno B. Linhares</span>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=EDE9DA&center=true&vCenter=true&random=false&width=435&lines=Bruno+B.)](https://git.io/typing-svg)
 
 ## Sobre
 
@@ -34,7 +30,7 @@ Apaixonado por tecnologia, sempre incluo em minhas atividades automações diver
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
-![Flack](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
