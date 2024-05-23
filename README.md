@@ -72,7 +72,7 @@ Loading...
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bblinhares/) 
-[![exercism](https://assets.exercism.org/assets/icons/exercism-with-logo-black-12752bd7fcf6862ba8ad7a2b75e21a9b2409d7fd.svg)](https://exercism.org/profiles/blinhares)
+[![Exercism](https://img.shields.io/badge/exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=0E76A8)](https://exercism.org/profiles/blinhares) 
 
 ## GitHub Stats
 
