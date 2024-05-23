@@ -59,6 +59,9 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
 - ML e Analise de Dados
     - [Aplicando Regreção com Arvore de Decisao em Acoes da Bolsa.](https://github.com/blinhares/ML_RegreArvoreDecisao_Acoes)
     - [Realizando uma Analise para Scalping Trading Strategy](https://github.com/blinhares/Scalping_Trading_Strategy_Python)
+    - [Realizando Previsões em Açoes Usando LSTM](https://github.com/blinhares/prevendo_precos_acoes_LSTM)
+ 
+    - 
       
 - UI App
     - [Pyside 6](https://wiki.qt.io/Qt_for_Python)
@@ -70,7 +73,7 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
     - [Rest_Api c/ FastApi](https://github.com/blinhares/dio_python_ai_backend_developer/tree/main/5_Explorando_FastAPI)
 
 - DJango
-    - Simple App de [Agenda](https://github.com/blinhares/agenda_django).
+    - [Simple App de Agenda](https://github.com/blinhares/agenda_django).
     - [Blog](https://github.com/blinhares/blog_django). 
     
 Loading...  
