@@ -2,36 +2,48 @@
 
 ## Sobre
 
-Bacharel em Engenharia Civil pela Universidade Federal do Ceará. Desde 2018 atuando no mercado de energia eólica, tenho contribuído junto a um time de peso, com a instalação de mais de 2GW de potência instalada em aerogeradores distribuídos entre América Latina e Central.
+Bacharel em Engenharia Civil pela Universidade Federal do Ceará. Desde 2018 atuando na gestão de projetos de energia eólica, tenho contribuído junto a um time de peso, com a instalação de mais de 2GW de potência instalada em aerogeradores distribuídos entre Américas Latina e Central.
 
-Apaixonado por tecnologia, sempre incluo em minhas atividades automações diversas em Python. Continuamente evoluindo, tenho incluído em meus estudos uma pós-graduação na área de Ciência de Dados e Machine Learning. Atualmente, me dedico aos estudos de diversas linguagens como Python, JavaScript, MySQL e Rust.
+Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas em Python. Continuamente evoluindo, tenho incluído em meus estudos uma pós-graduação na área de Ciência de Dados e Machine Learning. Atualmente, me dedico aos estudos de diversas linguagens como Python, JavaScript, MySQL e Rust.
 
 ## Habilidades <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
+#### Linguagens
 ![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=)
-![Django](https://img.shields.io/badge/-DJANGO-02569B?logo=django&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### FrameWorks
+
+![Django](https://img.shields.io/badge/-DJANGO-092E20?logo=django&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Plotly](https://img.shields.io/badge/-plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) 
+![FastApi](https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+
+### Banco de Dados
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLserver](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQLserver&logoColor=)
+![SQLserver](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQLserver)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+
+#### Ferramentas
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=4B0082)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FF00F6)](https://git-scm.com/doc) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-## Aprendendo
+
+### Aprendendo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TYPESCRIPT-000?style=for-the-badge&logo=typescript)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
