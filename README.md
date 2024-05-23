@@ -60,9 +60,8 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
     - [Aplicando Regreção com Arvore de Decisao em Acoes da Bolsa.](https://github.com/blinhares/ML_RegreArvoreDecisao_Acoes)
     - [Realizando uma Analise para Scalping Trading Strategy](https://github.com/blinhares/Scalping_Trading_Strategy_Python)
     - [Realizando Previsões em Açoes Usando LSTM](https://github.com/blinhares/prevendo_precos_acoes_LSTM)
+    - [DashPlotly - Um breve Reconhecimento!](https://github.com/blinhares/DashPlotly_um_reconhecimento)
  
-    - 
-      
 - UI App
     - [Pyside 6](https://wiki.qt.io/Qt_for_Python)
         - [Lista de Tarefas (TODO List)](https://github.com/blinhares/PySide6-Todo_List)
