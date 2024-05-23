@@ -36,6 +36,7 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Poetry](https://img.shields.io/badge/poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
 
 
 ### Aprendendo
@@ -72,8 +73,11 @@ Loading...
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bblinhares/) 
-[![Exercism](https://img.shields.io/badge/exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=0E76A8)](https://exercism.org/profiles/blinhares) 
+[![Exercism](https://img.shields.io/badge/exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/blinhares) 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yphurita&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blinhares&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blinhares&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+
+
