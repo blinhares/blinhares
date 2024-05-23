@@ -13,19 +13,20 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
 
 #### FrameWorks
 
-![Django](https://img.shields.io/badge/-DJANGO-092E20?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/-plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) 
 ![FastApi](https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 
 ### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLserver](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQLserver)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLserver](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=SQLserver)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
 #### Ferramentas
 
@@ -39,12 +40,12 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
 
 ### Aprendendo
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
-![typescript](https://img.shields.io/badge/TYPESCRIPT-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
