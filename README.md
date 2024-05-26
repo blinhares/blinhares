@@ -23,6 +23,7 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
 ![Plotly](https://img.shields.io/badge/-plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) 
 ![FastApi](https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+[![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ### Banco de Dados
 
@@ -49,9 +50,6 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
 ![typescript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ## Coisas Que Ando Fazendo...
@@ -62,6 +60,7 @@ Apaixonado por tecnologia, sempre incluo em meu dia a dia automações diversas 
     - [Realizando Previsões em Açoes Usando LSTM](https://github.com/blinhares/prevendo_precos_acoes_LSTM)
     - [Projeto de Coleta e Armazenamento de Dados em DB MySQL](https://github.com/blinhares/coleta_armazenamento_dados_licenca_medica)
     - [DashPlotly - Um breve Reconhecimento!](https://github.com/blinhares/DashPlotly_um_reconhecimento)
+    - [Recomendação Básica de Produtos](https://github.com/blinhares/sistema_recomendacao_de_produtos_por_frequencia/tree/0cdc274d3413c581893506c8fe7fb096b13183fc)
  
 - UI App
     - [Pyside 6](https://wiki.qt.io/Qt_for_Python)
